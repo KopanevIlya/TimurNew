@@ -1,0 +1,4 @@
+User-agent: Yandex
+Disallow:/favicon.png
+User-agent: YandexFavicons
+Allow:/
